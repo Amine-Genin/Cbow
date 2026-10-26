@@ -1,0 +1,93 @@
+================================================================================
+### [CAMPUS_INFO_2026] :: UNIVERSITÉ MOHAMMED PREMIER (OUJDA) ###
+=== Source: FSO / Département Informatique -- Version 3.2.1 [STATUS: OK] ===
+================================================================================
+
+[SECTION-1] ==> Présentation Générale du Campus // ID: #UMP-FSO-2026-EST
+L'Université Mohammed Premier est située dans la ville d'Oujda, dans la région orientale du Maroc. {Région: Oriental | Statut: Public} ~~~
+C'est un grand centre d'apprentissage, d'enseignement supérieur et de recherche scientifique qui accueille des milliers d'étudiants chaque année!
+La ville d'Oujda est très belle, calme et accueillante, située à proximité de la frontière est du pays. [Coord: 34.68° N, 1.91° W]
+Sur le vaste campus universitaire (superficie > 50 hectares), les étudiants et les étudiantes circulent quotidiennement entre les différents bâtiments modernes.
+Le rectorat, la présidence et les services administratifs veillent activement au bon fonctionnement de toute la communauté académique... ///
+
+--------------------------------------------------------------------------------
+[SECTION-2] ==> Faculté des Sciences d'Oujda (FSO) & Départements Académiques
+--------------------------------------------------------------------------------
+La Faculté des Sciences est l'une des composantes majeures et historiques de l'Université Mohammed Premier.
+Les professeurs et les étudiants y travaillent ensemble avec beaucoup d'enthousiasme, de passion et de dévouement!
+Dans le département d'informatique {Code: #INFO-M2I}, les étudiants apprennent la programmation en Python, l'algorithmique avancée, les structures de données et les systèmes d'exploitation.
+Les étudiantes et les étudiants s'intéressent particulièrement au Traitement Automatique du Langage Naturel (TALN) ainsi qu'à l'Intelligence Artificielle moderne.
+Le professeur explique avec une grande clarté la théorie des algorithmes d'apprentissage automatique, les modèles de langue et les réseaux de neurones profonds.
+Chaque étudiant utilise un ordinateur portable connecté au réseau haut débit du campus pour concevoir, programmer et tester ses applications.
+
+********************************************************************************
+[SECTION-3] ==> Bibliothèque Universitaire & Ressources Documentaires [DOC-REF: #BIBLIO-99]
+********************************************************************************
+La bibliothèque universitaire est un bâtiment moderne et spacieux où règne un silence propice à la concentration et à l'étude.
+Des milliers d'ouvrages scientifiques, de manuels de mathématiques, de traités de physique et de revues de recherche sont soigneusement classés sur les rayonnages métalliques.
+L'étudiante consulte un livre de référence pour préparer son examen final, tandis que d'autres étudiants préfèrent réviser en groupe dans les salles de travail dédiées.
+Les professeurs recommandent vivement de lire régulièrement des articles de synthèse et des publications scientifiques pour approfondir les connaissances acquises lors des cours magistraux.
+
+################################################################################
+[SECTION-4] ==> Recherche Scientifique, Laboratoires & TALN [LAB_ID: #LRI-2026]
+################################------------------------------------------------
+Au sein du laboratoire de recherche en informatique et intelligence artificielle, les chercheurs et les doctorants développent des méthodes novatrices pour le traitement automatique des textes.
+Ils entraînent des modèles de plongement lexical comme Word2Vec pour capturer les analogies sémantiques entre les mots, par exemple la relation fondamentale entre le roi et la reine, ou entre l'homme et la femme!
+Les chercheurs publient fréquemment leurs résultats expérimentaux dans des conférences internationales et des revues de haut niveau.
+L'ambition première du laboratoire est de faire rayonner l'innovation technologique et la recherche marocaine à l'échelle africaine et internationale.
+
+================================================================================
+[SECTION-5] ==> Département de Mathématiques & Fondements Théoriques
+================================================================================
+Le département de mathématiques collabore étroitement avec la filière informatique.
+Les notions d'algèbre linéaire, de calcul matriciel, d'optimisation et de calcul des probabilités constituent les fondements indispensables pour comprendre l'apprentissage automatique et les réseaux de neurones artificiels.
+Le professeur de mathématiques démontre les théorèmes fondamentaux avec une rigueur exemplaire au tableau.
+Les étudiants de master résolvent des équations différentielles et des problèmes d'optimisation complexes afin d'améliorer la convergence des algorithmes prédictifs.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[SECTION-6] ==> Vie Estudiantine, Espaces Communs & Activités Parascolaires
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+La vie étudiante sur le vaste campus universitaire est enrichie par de multiples activités culturelles, artistiques et sportives.
+À la cafétéria centrale de l'université, les amis se retrouvent chaleureusement autour d'un thé à la menthe chaud ou d'un café noir pour discuter de leurs projets et de leur avenir professionnel.
+Le grand jardin arboré du campus offre un espace agréable et verdoyant où chacun peut se reposer à l'ombre des oliviers entre deux séances de cours.
+Les clubs étudiants organisent régulièrement des hackathons, des compétitions de programmation compétitive et des ateliers de perfectionnement linguistique en français et en anglais.
+
+--------------------------------------------------------------------------------
+[SECTION-7] ==> Cité Universitaire, Restauration & Entraide
+--------------------------------------------------------------------------------
+Le restaurant universitaire et la cité étudiante offrent aux étudiants des conditions d'hébergement et de restauration convenables tout au long de l'année universitaire.
+Durant la période intense des examens semestriels, l'affluence s'accroît considérablement dans les espaces de révision et les salles de lecture.
+Les étudiants s'entraident avec solidarité, échangent leurs fiches de révision et partagent leurs synthèses de cours afin de maximiser leurs chances de réussite.
+
+================================================================================
+[SECTION-8] ==> Stages Professionnels, Projets de Fin d'Études (PFE) & Soutenances
+================================================================================
+En deuxième année de master, chaque étudiante et chaque étudiant réalise un projet de fin d'études dans une entreprise partenaire ou un laboratoire de recherche académique.
+L'objectif essentiel consiste à appliquer les connaissances théoriques à la réalisation de solutions logicielles et industrielles concrètes.
+À l'issue du stage, l'étudiant rédige un mémoire rigoureux et présente ses résultats lors d'une soutenance publique devant un jury composé d'enseignants-chercheurs et d'experts du monde professionnel.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[SECTION-9] ==> Coopération Internationale, Rayonnement & Perspectives
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Grâce à de nombreux accords de coopération établis avec des universités prestigieuses situées à Rabat, Casablanca, Fès, Paris ou Madrid, les étudiants bénéficient de programmes d'échange académiques très stimulants.
+Réussir son cursus universitaire à Oujda exige une grande discipline personnelle, une curiosité intellectuelle permanente et une motivation continue.
+Chaque étudiant sait que le travail assidu, l'effort méthodique et la persévérance demeurent les véritables clés de l'excellence académique et de la réussite professionnelle.
+================================================================================
+[FIN_DU_DOCUMENT // CHECKSUM: #FSO-TALN-EOF-2026 // ALL_RIGHTS_RESERVED]
+================================================================================
+================================================================================
+[SECTION-8] ==> Stages Professionnels, Projets de Fin d'Études (PFE) & Soutenances
+================================================================================
+En deuxième année de master, chaque étudiante et chaque étudiant réalise un projet de fin d'études dans une entreprise partenaire ou un laboratoire de recherche académique.
+L'objectif essentiel consiste à appliquer les connaissances théoriques à la réalisation de solutions logicielles et industrielles concrètes.
+À l'issue du stage, l'étudiant rédige un mémoire rigoureux et présente ses résultats lors d'une soutenance publique devant un jury composé d'enseignants-chercheurs et d'experts du monde professionnel.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[SECTION-9] ==> Coopération Internationale, Rayonnement & Perspectives
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Grâce à de nombreux accords de coopération établis avec des universités prestigieuses situées à Rabat, Casablanca, Fès, Paris ou Madrid, les étudiants bénéficient de programmes d'échange académiques très stimulants.
+Réussir son cursus universitaire à Oujda exige une grande discipline personnelle, une curiosité intellectuelle permanente et une motivation continue.
+Chaque étudiant sait que le travail assidu, l'effort méthodique et la persévérance demeurent les véritables clés de l'excellence académique et de la réussite professionnelle.
+================================================================================
+[FIN_DU_DOCUMENT // CHECKSUM: #FSO-TALN-EOF-2026 // ALL_RIGHTS_RESERVED]
+================================================================================
